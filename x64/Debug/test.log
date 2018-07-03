@@ -1,0 +1,5 @@
+﻿  rotacja.cpp
+c:\users\e2rd\documents\visual studio 2015\projects\test\test\rotacja.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\e2rd\documents\visual studio 2015\projects\test\test\rotacja.cpp(76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  test.vcxproj -> C:\Users\e2rd\Documents\Visual Studio 2015\Projects\test\x64\Debug\test.exe
+  test.vcxproj -> C:\Users\e2rd\Documents\Visual Studio 2015\Projects\test\x64\Debug\test.pdb (Full PDB)
